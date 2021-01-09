@@ -1,0 +1,27 @@
+css3 practice
+
+overflow	hidden, scroll,auto, visible
+		its used when element flows out of the box.
+
+images 		png, jpg, jpeg, svg, gif
+		Try to use small size images. and to do that you can use external tools like photopea,tinypng etc.
+
+transform	scale(), rotale(), translate()
+		this is used to give transformation effect
+
+transition	transition-poperty duration function delay
+		e.g width 5s ease 3s;
+
+animation	@keyframe name{}
+
+flexbox		https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+grid layout	https://www.viget.com/articles/getting-started-with-css-grid-part-1/
+
+css media queries	https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries
+
+important links
+1. css diner 	https://flukeout.github.io/
+2. flexbox	https://flexboxfroggy.com/
+3. walking man animation 	https://codepen.io/sergyc/pen/YXKyWo
+4. css fun animation 	https://www.mockplus.com/blog/post/css-animation-examples
