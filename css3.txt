@@ -20,6 +20,9 @@ grid layout	https://www.viget.com/articles/getting-started-with-css-grid-part-1/
 
 css media queries	https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries
 
+inline vs block		inline element height width nite parbe na r block element sob nite parbe. This is a most important question for 
+			question.
+
 important links
 1. css diner 	https://flukeout.github.io/
 2. flexbox	https://flexboxfroggy.com/
